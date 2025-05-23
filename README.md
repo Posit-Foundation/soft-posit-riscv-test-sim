@@ -171,6 +171,7 @@ qemu-system-riscv64 \
 - [Getting Started with Linux and BusyBox for RISC-V](https://viktor-prutyanov.github.io/2023/02/11/Getting-started-with-Linux-and-BusyBox-for-RISC-V-on-QEMU.html) ([Archive](https://web.archive.org/web/20250522141822/https://viktor-prutyanov.github.io/2023/02/11/Getting-started-with-Linux-and-BusyBox-for-RISC-V-on-QEMU.html))
 - [Running RISC-V QEMU](https://jborza.com/post/2021-04-03-running-riscv-qemu/) ([Archive](https://web.archive.org/web/20250318193131/https://jborza.com/post/2021-04-03-running-riscv-qemu/))
 - [Emulating RISC-V Debian on WSL2](https://blog.davidburela.com/2020/11/15/emulating-risc-v-debian-on-wsl2/) ([Archive](https://web.archive.org/web/20250315052658/https://blog.davidburela.com/2020/11/15/emulating-risc-v-debian-on-wsl2/))
+- [Running 64- and 32-bit RISC-V Linux on QEMU](https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html)([Archive](https://web.archive.org/web/20241105222817/https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html))
 
 ## License
 
